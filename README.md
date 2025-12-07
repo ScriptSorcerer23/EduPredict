@@ -3,6 +3,8 @@
 ## 📌 Project Overview
 This project explores **predicting student academic performance** using **machine learning techniques**. By analyzing behavioral and demographic data (e.g., gender, guardian relation, attendance), we identify key factors influencing student success. It includes a **desktop app** for interactive predictions.
 
+Demo: https://igit.me/EduPredict
+
 ## 📊 Dataset
 - **Name**: xAPI-Edu-Data
 - **Source**: Kaggle (Open-access educational repository)
